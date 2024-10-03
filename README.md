@@ -12,7 +12,7 @@ Workstation versions 17.5.2 and 17.6
 ## Installation
 ```bash
 
-git clone   
+git clone https://github.com/x6h057/vm-host-modules-17.6.git 
 cd vm-host-modules-17.6
 
 make
