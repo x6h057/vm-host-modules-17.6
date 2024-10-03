@@ -5,7 +5,7 @@ Automated installation (replaces vmmon/vmnet and runs vmware installation script
 Workstation versions 17.5.2 and 17.6
 ## Tested on
 
-- Arch Linux: VMware Workstation Pro: Version 17.5.2, 17.6
+- Linux: VMware Workstation Pro: Version 17.5.2, 17.6
 - Linux Kernels: Up to version 6.10.x - 6.11.x
 - Distributions: Debian-based, Arch-based Fedora
 
